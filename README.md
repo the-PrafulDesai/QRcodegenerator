@@ -2,7 +2,7 @@
 
 # QR Code Generator
 
-## Overview
+## Overview 
 The QR Code Generator is a simple web application developed using HTML, CSS, and JavaScript. It allows users to generate QR codes from text or URLs instantly. The application utilizes the QRServer API to create QR codes dynamically, providing a convenient tool for generating QR codes for various purposes.
 
 ## Features
